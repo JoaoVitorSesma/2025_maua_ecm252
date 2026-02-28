@@ -18,3 +18,11 @@ print(f"Subtrair: {v1} - {v2} = {sub}")
 ### Multiplicação
 mult = calculadora.multiplicar(v1, v2)
 print(f"Multiplicar: {v1} * {v2} = {mult}")
+
+### Divisão
+div = calculadora.dividir(v1, v2)
+print(f"Dividir: {v1} / {v2} = {div}")
+
+### Potenciação
+pot = calculadora.potencia(v1, v2)
+print(f"Potenciar: {v1} ^ {v2} = {pot}")
