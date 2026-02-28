@@ -14,3 +14,7 @@ print(f"Somar: {v1} + {v2} = {soma}")
 ### Subtração
 sub = calculadora.subtrair(v1, v2)
 print(f"Subtrair: {v1} + {v2} = {sub}")
+
+### Multiplicação
+mult = calculadora.multiplicar(v1, v2)
+print(f"Multiplicar: {v1} x {v2} = {mult}")
